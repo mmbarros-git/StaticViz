@@ -38,7 +38,9 @@ It includes information on common pollutants such as CO2.
 ---
 
 ### 3. [US Energy Information Administration (EIA)](https://www.eia.gov/)
-- **Description**: The EIA provides extensive datasets on energy production and consumption in the USA, including data on renewable energy sources like wind, solar, and hydroelectric power. It also includes investment and consumption metrics.
+- **Description**: The EIA provides extensive datasets on energy production and 
+consumption in the USA, including data on renewable energy sources like wind, solar, 
+and hydroelectric power. It also includes investment and consumption metrics.
 - **Example Dataset**: Housing Data by Unit Type
 - **Estimated size**: Rows: 44 | Columns: 7
 
