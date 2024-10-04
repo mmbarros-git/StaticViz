@@ -54,14 +54,17 @@ electric vehicles, are being adopted across the U.S.
 
 ---
 
+
 ## Questions
 
-1. Are there other publicly available datasets that might provide additional value 
-in comparing pollution and renewable energy policies?
-2. Is there a recommended approach for handling potential gaps in regional data 
-for pollution or energy use?
-3. Are there any tools or techniques you recommend for efficiently managing larger 
-datasets, especially those with time-series characteristics?
+1. Is it appropriate to mix different data sources (global and U.S.-specific) 
+in this analysis, or would it be better to focus solely on U.S.-based data?
+2. Given the broad scope of pollution and renewable energy, would you recommend 
+narrowing down the idea further to ensure clarity and focus in the visualizations?
+3. Are there additional data sources or resources that you would suggest to enhance 
+the comparison between pollution levels, renewable energy use, and public investment?
+
+
 
 
 
