@@ -10,6 +10,7 @@ python = "^3.9"
 pandas = "^2.2.3"
 black = "^24.8.0"
 altair = "^5.4.1"
+vega-datasets = "^0.9.0"
 
 
 [build-system]
