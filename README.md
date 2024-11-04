@@ -30,7 +30,7 @@ and solar energy leading the way.
 Together, these visualizations not only illustrate the current state of CO₂ emissions and the progress in renewable energy adoption but also serve as a critical resource for policymakers aiming to implement effective strategies for reducing emissions and promoting sustainable energy practices globally.
 
 ## Infographic
-![Global CO₂ Emissions and the shift towards Renewable Energy Infographic](CO2_RE_infographic.svg)
+![Global CO₂ Emissions and the shift towards Renewable Energy Infographic](static_final/CO2_RE_infographic.svg)
 
 
 
