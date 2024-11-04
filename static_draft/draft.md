@@ -20,6 +20,3 @@ Is on the milestone2.ipynb under each chart. I try to use for all the graphics a
 ## What form do you envision your final deliverable taking? (An article incorporating the images? A poster? An infographic?)
 
 I want to create an infographic. 
-
-
-
